@@ -2,7 +2,7 @@
 Audio Event Detection and Classification
 
 ## Introduction
-Repository for EE608V course project (Machine Learning in Signal Processing, Fall 2020, IIT Kanpur), on Audio Event Detection and Audio event classification for 10 different audios - 'air_conditioner','car_horn','children_playing','dog_bark','drilling','engine_idling','gun_shot','jackhammer' ,'siren','street_music'
+Repository for EE608V course project (Machine Learning in Signal Processing, Fall 2020, IIT Kanpur), on Audio Event Detection and Audio event classification for 10 different audios - 'air_conditioner', 'car_horn', 'children_playing', 'dog_bark', 'drilling', 'engine_idling', 'gun_shot', 'jackhammer','siren', 'street_music'
 
 ## Tasks
   #### Task 1: 
